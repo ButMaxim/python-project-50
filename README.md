@@ -5,6 +5,7 @@
 
 [![CI check](https://github.com/ButMaxim/python-project-50/actions/workflows/pyci.yml/badge.svg)](https://github.com/ButMaxim/python-project-50/actions/workflows/pyci.yml)
 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b308274020f24d5248b2/test_coverage)](https://codeclimate.com/github/ButMaxim/python-project-50/test_coverage)
 
 # DESCRIPTION:
 
