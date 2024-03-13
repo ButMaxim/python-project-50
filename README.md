@@ -3,7 +3,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/b308274020f24d5248b2/maintainability)](https://codeclimate.com/github/ButMaxim/python-project-50/maintainability)
 
-[![CI check](https://github.com/ButMaxim/python-project-50/blob/workflows/pyci.yml/badge.svg)](https://github.com/ButMaxim/python-project-50/workflows/pyci.yml)
+[![CI check](https://github.com/ButMaxim/python-project-50/actions/workflows/pyci.yml/badge.svg)](https://github.com/ButMaxim/python-project-50/actions/workflows/pyci.yml)
 
 
 # DESCRIPTION:
