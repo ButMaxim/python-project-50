@@ -23,10 +23,11 @@
 
 **Сравнение двух плоских файлов: JSON.**
 
+[![asciicast](https://asciinema.org/a/k5vTah4gOd5uh2Uasw3Ebj8Ru.svg)](https://asciinema.org/a/k5vTah4gOd5uh2Uasw3Ebj8Ru)
 
 **Сравнение двух плоских файлов: YAML(YML).**
 
-
+[![asciicast](https://asciinema.org/a/vKZmOXXEg0RHqJ7cuveoehiG8.svg)](https://asciinema.org/a/vKZmOXXEg0RHqJ7cuveoehiG8)
 
 **Сравнение двух файлов c рекурсивной структурой: YAML(YML) или JSON.**
 
