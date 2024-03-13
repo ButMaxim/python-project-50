@@ -31,11 +31,12 @@
 
 **Сравнение двух файлов c рекурсивной структурой: YAML(YML) или JSON.**
 
-
+[![asciicast](https://asciinema.org/a/D02gbaCjhRYavYU8raFsaIWUj.svg)](https://asciinema.org/a/D02gbaCjhRYavYU8raFsaIWUj)
 
 Плоский формат отображения - cравнение двух файлов c рекурсивной структурой YAML(YML) или JSON.
 
-
+[![asciicast](https://asciinema.org/a/YAaqGkO5dhkPxOfX7q3yhe25R.svg)](https://asciinema.org/a/YAaqGkO5dhkPxOfX7q3yhe25R)
 
 Вывод результата сравнения в формате JSON.
 
+[![asciicast](https://asciinema.org/a/N6MUnqcmlVBdzohgFQmoPaVZ5.svg)](https://asciinema.org/a/N6MUnqcmlVBdzohgFQmoPaVZ5)
