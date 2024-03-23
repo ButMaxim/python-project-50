@@ -8,8 +8,6 @@ def to_str(value: Any) -> [Union[str, int]]:
         return str(value).lower()
     if value is None:
         return "null"
-    if isinstance(value, int):
-        return value
     return f"'{value}'"
 
 
