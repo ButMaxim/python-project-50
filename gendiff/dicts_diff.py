@@ -1,5 +1,5 @@
 def build_diff(data1: dict, data2: dict):
-    diff = list()
+    diff = []
     sorted_keys = sorted(data1.keys() | data2.keys())
     for key in sorted_keys:
         if key not in data1:
